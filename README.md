@@ -16,6 +16,7 @@ Através das operações CRUD, é possível criar, ler, atualizar e deletar usu�
 - ``Java 11``
 - ``Spring Tool Suite 4``
 - ``Paradigma de orientação a objetos``
+- ``Hibernate``
 - ``Maven``
 - ``H2 Database Engine``
 - ``Postman``
