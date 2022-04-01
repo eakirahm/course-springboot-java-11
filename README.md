@@ -7,7 +7,7 @@ Implementação de um modelo de domínio com as entidades de negócio, usuário,
 
 Através das operações CRUD, é possível criar, ler, atualizar e deletar usuários/produtos no banco de dados.
 
-![Diagrama de classes do projeto](https://i.imgur.com/pF5CbBB.jpg))
+![Diagrama de classes do projeto](https://i.imgur.com/pF5CbBB.jpg)
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
